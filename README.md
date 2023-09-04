@@ -1,23 +1,40 @@
-### Hi there 👋
+### 👋Welcome to Wink-wink-wink's Home
+
+<div align="center">
+<table>
+<tr>
+<td width="42%">
+
+```     
+☆  *　.  　☆                    
+    . ∧＿∧　∩　* ☆
+*  ☆ ( ・∀・)/ .
+ .  ⊂　　 ノ* ☆
+☆ * (つ ノ  .☆
+   (ノ 
+```
+
+</td>
+<td width="58%">
 
 <div align=center><img src="https://img.zcool.cn/community/01a0fa5d5ba4cfa8012187f4f183a2.gif"/></div>
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/></div>
-
-# 📊 GitHub Stats:
-<div align="center">
-  
-![Wink-wink-wink's github stats](https://github-readme-stats.vercel.app/api?username=Wink-wink-wink&hide_title=false&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Wink-wink-wink&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-  
-![](https://github-readme-streak-stats.vercel.app/?user=Wink-wink-wink&hide_border=true&&card_width=320&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
+<tr>
+<table>
 </div>
+  
+### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF568100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Wink-wink-wink!!;A+beginner+exploring+everything%F0%9F%98%8B" alt="Typing SVG" /></div>  
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
 width="800"  height="3">
 </div>
+
+# 📊 GitHub Stats:
+[![Wink-wink-wink's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wink-wink-wink&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,1070aa,004397&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wink-wink-wink&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,1070aa,004397&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 **近期变动/GitHub Contributions**
 
