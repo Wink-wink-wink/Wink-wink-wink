@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.zcool.cn/community/01a0fa5d5ba4cfa8012187f4f183a2.gif)
+
 <!--
 **Wink-wink-wink/Wink-wink-wink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
