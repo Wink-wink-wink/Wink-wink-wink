@@ -7,6 +7,12 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Wink-wink-wink/Wink-wink-wink/assets/github-contribution-grid-snake.svg" /></div>
 
 
+
+**本页访问次数/Visitor Count**
+
+![Visitor Count](https://profile-counter.glitch.me/Wink-wink-wink/count.svg)
+
+
 <!--
 **Wink-wink-wink/Wink-wink-wink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
