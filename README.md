@@ -4,9 +4,14 @@
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/></div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Wink-wink-wink/Wink-wink-wink/assets/github-contribution-grid-snake.svg" /></div>
 
+**近期变动/GitHub Contributions**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wink-wink-wink/Wink-wink-wink/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wink-wink-wink/Wink-wink-wink/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Wink-wink-wink/Wink-wink-wink/output/github-contribution-grid-snake.svg" />
+</picture> 
 
 **本页访问次数/Visitor Count**
 
