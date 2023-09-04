@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![](https://img.zcool.cn/community/01a0fa5d5ba4cfa8012187f4f183a2.gif)
+<div align=center><img src="https://img.zcool.cn/community/01a0fa5d5ba4cfa8012187f4f183a2.gif"/></div>
+
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/></div>
+
 
 <!--
 **Wink-wink-wink/Wink-wink-wink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
