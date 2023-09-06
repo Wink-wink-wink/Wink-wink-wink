@@ -27,9 +27,10 @@ width="1000"  height="3">
 <table>
 
 # 💻 技术栈
-<img src="https://w3schools.cn/wp-content/uploads/c/c-logo.png"  width="70" height="80"/>
-<img src="https://img-blog.csdnimg.cn/20210608201104167.jpg?x-oss-process=image/resize,m_fixed,h_224,w_224"  width="78" height="80"/>
+<img src="https://skillicons.dev/icons?i=c,cpp" /><br>
 
+# 🛠 常用工具
+<img src="https://github.com/Wink-wink-wink/winkicon/blob/main/github.webp"  width="78" height="80"/><img src="https://github.com/Wink-wink-wink/winkicon/blob/main/vs.webp"  width="78" height="80"/><img src="https://github.com/Wink-wink-wink/winkicon/blob/main/py.webp"  width="78" height="80"/>
 
 # 📊 GitHub Stats:
 <div align="center">
