@@ -36,6 +36,8 @@ width="1000"  height="3">
 
 -[看了《火影忍者》](https://movie.douban.com/subject/1427318/) 推荐指数：🌟🌟🌟🌟🌟
 
+-[正在玩《王者荣耀》](https://pvp.qq.com/) 推荐指数：🌟🌟🌟🌟
+
 </td></tr>
 
 <table>
