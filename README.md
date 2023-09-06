@@ -1,5 +1,6 @@
 ### 👋Welcome to Wink-wink-wink's Home
 
+
 ### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF568100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Wink-wink-wink!!;A+beginner+exploring+everything%F0%9F%98%8B" alt="Typing SVG" /></div> 
 
 <div align="center">
@@ -24,6 +25,10 @@ width="1000"  height="3">
 
 <tr>
 <table>
+
+# 💻 技术栈
+<img src="https://w3schools.cn/wp-content/uploads/c/c-logo.png"  width="70" height="80"/>
+<img src="https://img-blog.csdnimg.cn/20210608201104167.jpg?x-oss-process=image/resize,m_fixed,h_224,w_224"  width="78" height="80"/>
 
 
 # 📊 GitHub Stats:
